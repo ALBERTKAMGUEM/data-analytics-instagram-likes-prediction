@@ -114,7 +114,11 @@ L'objectif est de déterminer si l'ajout de l'engagement historique améliore la
 
 Un modèle présentant un R² plus élevé et des erreurs MSE et MAE plus faibles sera généralement considéré comme plus performant sur les données évaluées.
 
+📊 Visualisation des données
 
+ Relation entre le nombre d'abonnés et les likes
+
+![Followers vs Likes](followers_vs_likes.png)
 
 
  👨‍💻 Auteur
